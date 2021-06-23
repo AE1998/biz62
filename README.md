@@ -1,3 +1,3 @@
 # business 62
 
-Hello all, its been nice training with you today.
+Hello all, it's been nice training with you today.
